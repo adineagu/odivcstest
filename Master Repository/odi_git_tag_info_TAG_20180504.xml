@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Master Repository/Technologies/File/Physical Architecture/FILE_LOCALHOST/PSC_FILE_LOCALHOST_FILE_GENERIC_C_DataDEMOWorkSample_dataSource_files.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/ORACLE_LOCALHOST/PSC_ORACLE_LOCALHOST_ODIGENDEMO.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL_FILE.xml"/>
+      <param value="/Master Repository/Languages/LANG_SQL.xml"/>
+      <param value="/Master Repository/Technologies/File/TECH_File.xml"/>
+      <param value="/Work Repository/Models/HR_Files/DEFAULT/SMOD_DEFAULT.xml"/>
+      <param value="/Master Repository/Languages/LANG_PIGLATIN.xml"/>
+      <param value="/Work Repository/Models/HR_Files/MOD_HR_Files.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Work Repository/Models/HR_Base_Tables/MOD_HR_Base_Tables.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Logical Architecture/LSC_ORACLE_ODIGENDEMO.xml"/>
+      <param value="/Master Repository/Technologies/File/Physical Architecture/FILE_LOCALHOST/CONN_FILE_LOCALHOST.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/Physical Architecture/ORACLE_LOCALHOST/CONN_ORACLE_LOCALHOST.xml"/>
+      <param value="/Master Repository/Technologies/File/Logical Architecture/LSC_FILE_ODIGENDEMO.xml"/>
+      <param value="/Work Repository/Models/HR_Files/DEFAULT/TAB_COUNTRIES_FILE.xml"/>
+      <param value="/Work Repository/Global Objects/Global Variables/VAR_BUSINESS_DATE.xml"/>
+      <param value="/Work Repository/Models/HR_Base_Tables/DEFAULT/SMOD_DEFAULT.xml"/>
+      <param value="/Master Repository/Technologies/Oracle/TECH_Oracle.xml"/>
+      <param value="/Work Repository/Models/HR_Base_Tables/DEFAULT/TAB_COUNTRIES.xml"/>
+      <param value="/Work Repository/Projects/HR_Demo/PROJ_HR_Demo.xml"/>
+      <param value="/Work Repository/Projects/HR_Demo/01_BASE_LOAD/FOLD_01_BASE_LOAD.xml"/>
+      <param value="/Work Repository/Projects/HR_Demo/01_BASE_LOAD/Mappings/MAP_COUNTRIES.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
